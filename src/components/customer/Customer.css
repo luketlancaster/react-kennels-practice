@@ -1,9 +1,3 @@
-.customers {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-}
-
 .customer {
   flex-basis: 28%;
   margin: 1em;
